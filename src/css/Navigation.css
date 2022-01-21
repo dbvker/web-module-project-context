@@ -23,8 +23,9 @@
 	font-weight: bold;
 	line-height: 18px;
 	text-align: center;
-	background: lightcoral;
-	border-radius: 100%;
-	width: 18px;
-	height: 18px;
+	background: crimson;
+	border-radius: 5px;
+	width: auto;
+	height: 21px;
+	padding: 3px 5px;
 }
